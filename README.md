@@ -21,3 +21,8 @@ docker run -p [PORT_TO_BE_ACCESSIBLE]:4000 [USERNAME]/[IMAGE_NAME]
 ```
 
 Replace [USERNAME], [IMAGE_NAME], [PORT_TO_BE_ACCESSIBLE] and [IMAGE_ID] with your values.
+
+### Environment Variables
+
+- REACT_APP_DEVELOPMENT_SERVER
+- REACT_APP_PRODUCTION_SERVER
